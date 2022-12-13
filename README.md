@@ -1,7 +1,7 @@
 1 - Buy hairspray or similar and never have a print detach from the bed ever again https://www.3djake.com/3d-printer-accessories/buildplateadhesion  
 
  
-2 - Download and install the latest version of Cura https://ultimaker.com/software/ultimaker-cura   
+2 - Download and install the <a href=https://ultimaker.com/software/ultimaker-cura>latest version of Cura</a>
 
 
 3 - Install <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.1).zip?raw=true">this zip file</a> as described in the readme file inside it 
