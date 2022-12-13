@@ -1,4 +1,4 @@
-1 - Buy hairspray or similar and never have a print detach from the bed ever again https://www.3djake.com/3d-printer-accessories/buildplateadhesion  
+1 - <a href="https://www.3djake.com/3d-printer-accessories/buildplateadhesion">Buy adhesive spray here</a> or somewhere else (or hairspray) and never have a print detach from the PEI bed ever again.   
 
  
 2 - Download and install the <a href=https://ultimaker.com/software/ultimaker-cura>latest version of Cura</a>
