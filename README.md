@@ -27,7 +27,7 @@
 
 <hr>
 
-Support settings are not updated from the original Flsun stock file. On my V400 the supports are sometimes very hard to remove so I'll see if that can be improved too.
+Support settings are not updated from the original Flsun stock file. On my V400 the supports are sometimes hard to remove so I'll see if that can be improved too.
 
 <hr> 
 
