@@ -19,7 +19,7 @@
 7 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
 
 
-8 - Calibrate Extrusion Multiplier and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html<with yet another great guide by Ellis</a>  
+8 - Calibrate Extrusion Multiplier and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>  
 
 9 - The three driver belts, one in each column, should be equally tightly stretched. Haven't found a guide yet but it is pretty easy, move the extruder down to the exact middle of bed first (G1 X0 Y0 Z1 F3000). Then place your ear close to each column and pluck the belts like a guitar one by one and listen to the note of each being in same tune. You can pluck the belt on either each columns right or left side, one side will not "ring" but the other one will give you a weak but clear base note.
 
