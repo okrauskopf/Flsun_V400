@@ -33,10 +33,10 @@ Support settings are not updated from the original Flsun stock file. On my V400 
 
 Changes from Flsun's stock V400 files:  
 
-- BED_MESH_PROFILE LOAD="default" added to the start code
 - Combing off
 - Infill changed to Gyroid
 - Retraction Z hop raised from 0.3 to 0.8
+- BED_MESH_PROFILE LOAD="default" added to the start code
 - All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values
 - Fan Speed takes it speed value from currently chosen filament instead of a fixed value
 - Flow compensation for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
