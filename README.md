@@ -10,7 +10,7 @@
 4 - Start Cura and add your Flsun V400. Don't start printing!  
 
 
-5 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual  
+5 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. Bed mesh when bed has been hot for 15 minutes so it is evenly heated.  
 
 
 6 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>  
