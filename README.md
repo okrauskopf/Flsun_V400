@@ -13,13 +13,13 @@
 5 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual  
 
 
-6 - Check that you got it set right https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html  
+6 - Check that you got it set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>  
 
 
-7 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html  
+7 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
 
 
-8 - Calibrate Extrusion Multiplier and add the result in Cura https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html  
+8 - Calibrate Extrusion Multiplier and add the result in Cura, <a hef="https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html">with yet another great uide by Ellis</a>  
 
 	
-9 - If you still get nozzle crashing into the print with layer shifts and possibly also spagethi do the Enhanced Delta Calibration https://www.klipper3d.org/Delta_Calibrate.html#enhanced-delta-calibration  
+9 - If you still get nozzle crashing into the print with layer shifts and possibly also spaghetti do Klipper's <a href="https://www.klipper3d.org/Delta_Calibrate.html#enhanced-delta-calibration">Enhanced Delta Calibration</a>
