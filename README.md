@@ -34,7 +34,6 @@ Support settings are not updated from the original Flsun stock file. On my V400 
 Changes from Flsun's stock V400 files:  
 
 - BED_MESH_PROFILE LOAD="default" added to the start code
-- The first extruder move from home is down to the edge of bed instead of center, changed in the start code 
 - Combing off
 - Infill changed to Gyroid
 - Fan Speed takes it speed value from currently chosen filament instead of a fixed value
@@ -43,5 +42,6 @@ Changes from Flsun's stock V400 files:
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
 - Three walls instead of two  
 - Added 0.1mm elephant foot compensation
+- The first extruder move from home is down to the edge of bed instead of center, changed in the start code 
   
 Thanks to everyone contributing info for the V400!!
