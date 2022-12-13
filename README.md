@@ -4,7 +4,7 @@
 2 - Download and install the <a href=https://ultimaker.com/software/ultimaker-cura>latest version of Cura</a>
 
 
-3 - Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.3).zip?raw=true">this updated Flsun V400 zip file for Cura</a> and install it as described in the readme file inside it 
+3 - Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.4).zip?raw=true">this updated Flsun V400 zip file for Cura</a> and install it as described in the readme file inside it 
 
 
 4 - Start Cura and add your Flsun V400. Don't start printing!  
