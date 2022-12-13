@@ -21,7 +21,7 @@
 
 8 - Calibrate Extrusion Multiplier and add the result in Cura, <a hef="https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html">with yet another great uide by Ellis</a>  
 
-9 - The three driver belts, one in each column, should be equally tightly stretched. Haven't found a guide yet but it is pretty easy to place your ear close and pluck them like a guitar one by one and listen to the note of each being in same tune. You can pluck the belt on either each columns right or left side, one side will not "ring" but the other one will give you a weak but clear base note.
+9 - The three driver belts, one in each column, should be equally tightly stretched. Haven't found a guide yet but it is pretty easy, move the extruder down to the exact middle of bed first (G1 X0 Y0 Z1 F3000). Then place your ear close to each column and pluck the belts like a guitar one by one and listen to the note of each being in same tune. You can pluck the belt on either each columns right or left side, one side will not "ring" but the other one will give you a weak but clear base note.
 
 10 - If you still get nozzle crashing into the print with layer shifts and possibly also spaghetti do Klipper's <a href="https://www.klipper3d.org/Delta_Calibrate.html#enhanced-delta-calibration">Enhanced Delta Calibration</a>
 
