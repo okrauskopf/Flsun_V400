@@ -28,3 +28,20 @@
 <hr>
 
 Support settings are not updated from the original Flsun stock file. On my V400 the supports are very hard to remove so I'll see if that can be improved too.
+
+<hr> 
+
+Changes from Flsun's stock V400 files:  
+
+- BED_MESH_PROFILE LOAD="default" added to start code
+- First move down the edge of bed instead of center, changedin start code 
+- Combing off
+- Infill changed to Gyroid
+- Fan Speed takes it speed value from currently chosen filament instead of a fixed value
+- All bed and nozzle temperatures are taken from currently chosen filament instead of fixed values
+- Flow compensation for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
+- All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
+- Added 0.1mm elephant foot compensation
+- Three walls instead of two  
+  
+Thanks to everyone contributing info for the V400!!
