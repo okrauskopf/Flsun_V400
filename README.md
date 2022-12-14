@@ -9,7 +9,7 @@ Steps to change some settings from Flsuns's stock V400 settings in Cura to reduc
 1 - Download and install the <a href=https://ultimaker.com/software/ultimaker-cura>__latest__ version of Cura</a>. You don't need to use any Cura version from the Flsun V400 USB stick.
 
 
-2 - Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.5).zip?raw=true">this updated Flsun V400 zip file for Cura (v0.5)</a> and install it as described in the readme file inside it 
+2 - Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.6).zip?raw=true">this updated Flsun V400 zip file for Cura (v0.6)</a> and install it as described in the readme file inside it 
 
 
 3 - Start Cura and add your Flsun V400. Don't start printing!  
