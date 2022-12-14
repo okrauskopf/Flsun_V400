@@ -40,7 +40,7 @@ Steps to change some settings from Flsuns's stock V400 settings in Cura to reduc
 - Material Flow (A.K.A. Extrusion Multiplier) set to a better default value at 98,5 instead of 100. 
 - All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values. So changing filament in Cura actually does something.
 - Fan Speed takes it speed value from currently chosen filament instead of a fixed value
-- Flow compensation for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
+- Flow compensation added for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
 - Three walls instead of two  
 - Added 0.1mm elephant foot compensation
