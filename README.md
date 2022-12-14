@@ -1,6 +1,6 @@
 ## TLDR  
   
-Steps to change some settings from Flsuns's stock V400 settings in Cura to reduce nozzle crashing into filament and layer shifts. Main changes are infill changed to Gyroid + Combing off + Slightly higher Z hop + Info on how to calibrate flow by setting BOTH E-steps and slicer filament flow correctly. All these are crucial. 
+Steps to change some settings from Flsuns's stock V400 settings in Cura to reduce nozzle crashing into filament and layer shifts. Main changes are infill changed to Gyroid + Combing off + Slightly higher Z hop + Info on how to calibrate flow by setting BOTH E-steps and slicer filament flow correctly. __All__ these are crucial. 
   
 
   
