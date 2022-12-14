@@ -1,4 +1,4 @@
-1 - <a href="https://www.3djake.com/3d-printer-accessories/buildplateadhesion">Buy adhesive spray here</a> or somewhere else (or hairspray) and never have a print detach mid print from the PEI bed ever again. The really great adhesion enables printing the first layer a bit faster also.  
+1 - <a href="https://www.3djake.com/3d-printer-accessories/buildplateadhesion">Buy adhesive spray here</a> or somewhere else and never have a print detach mid print from the PEI bed ever again. The really great adhesion enables printing the first layer a bit faster also.  
 
  
 2 - Download and install the <a href=https://ultimaker.com/software/ultimaker-cura>__latest__ version of Cura</a>. You don't need to use any Cura version from the Flsun V400 USB stick.
