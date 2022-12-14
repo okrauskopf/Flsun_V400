@@ -39,7 +39,7 @@ Changes from Flsun's stock V400 files:
 - Infill changed to Gyroid
 - Retraction Z hop raised from 0.3 to 0.8
 - BED_MESH_PROFILE LOAD="default" added to the start code (although this might be redundant, the jury is still out)
-- All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values
+- All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values. So changing filament in Cura actually does something.
 - Fan Speed takes it speed value from currently chosen filament instead of a fixed value
 - Flow compensation for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
