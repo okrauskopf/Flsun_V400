@@ -1,3 +1,11 @@
+## TLDR  
+  
+Steps to change some settings from Flsuns's stock V400 settings in Cura to reduce nozzle crashing into filament and layer shifts. Main changes are infill changed to Gyroid + Combing off + Slightly higher Z hop + Info on how to calibrate flow by setting BOTH E-steps and slicer filament flow correctly. All these are crucial. 
+  
+
+  
+## Instructions  
+  
 1 - Download and install the <a href=https://ultimaker.com/software/ultimaker-cura>__latest__ version of Cura</a>. You don't need to use any Cura version from the Flsun V400 USB stick.
 
 
@@ -22,15 +30,8 @@
 
 9 - If you still get nozzle crashing into the print with layer shifts and possibly also spaghetti do Klipper's <a href="https://www.klipper3d.org/Delta_Calibrate.html#enhanced-delta-calibration">Enhanced Delta Calibration</a>
 
-<hr>
 
-For further info check out Guilouz very thorough guide https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
-
-Support settings are not updated from the original Flsun stock file. On my V400 the supports are sometimes hard to remove so I'll see if that can be improved too.
-
-<hr> 
-
-Changes from Flsun's stock V400 files:  
+## These are the changes done in Flsun's stock V400 files for Cura  
 
 - Combing off
 - Infill changed to Gyroid
@@ -43,6 +44,14 @@ Changes from Flsun's stock V400 files:
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
 - Three walls instead of two  
 - Added 0.1mm elephant foot compensation
-- The first extruder move from home is down to the edge of bed instead of center, changed in the start code 
+- The first extruder move from home is down to the edge of bed instead of center, changed in the start code  
+  
+Nothing else is changed from the original Flsun stock file you received on the USB stick. 
   
 Thanks to everyone contributing info for the V400!!
+  
+## More info  
+  
+For further info check out Guilouz very thorough guide https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
+
+
