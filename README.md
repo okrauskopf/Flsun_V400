@@ -27,6 +27,8 @@
 
 <hr>
 
+For further info check out Guilouz very thorough guide https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
+
 Support settings are not updated from the original Flsun stock file. On my V400 the supports are sometimes hard to remove so I'll see if that can be improved too.
 
 <hr> 
