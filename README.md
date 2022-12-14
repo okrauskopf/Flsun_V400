@@ -36,15 +36,15 @@ Steps to change some settings from Flsuns's stock V400 settings in Cura to reduc
 - Combing off
 - Infill changed to Gyroid
 - Retraction Z hop raised from 0.3 to 0.8
-- BED_MESH_PROFILE LOAD="default" added to the start code (although this might be redundant, the jury is still out)
 - Material Flow (A.K.A. Extrusion Multiplier) set to a better default value at 98,5 instead of 100. 
+- The first extruder move from home is down to the edge of the bed instead of center to prevent filement drops in the bed center, changed in the start code  
+- BED_MESH_PROFILE LOAD="default" added to the start code (although this might be redundant, the jury is still out)
 - All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values. So changing filament in Cura actually does something.
 - Fan Speed takes it speed value from currently chosen filament instead of a fixed value
 - Flow compensation added for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
 - Three walls instead of two  
 - Added 0.1mm elephant foot compensation
-- The first extruder move from home is down to the edge of bed instead of center, changed in the start code  
   
 Nothing else is changed from the original Flsun stock file you received on the USB stick. 
   
