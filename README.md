@@ -25,10 +25,12 @@ Steps to change some settings from Flsuns's stock V400 settings in Cura to reduc
 
 
 7 - Calibrate Extrusion Multiplier and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>  
+  
+<i>If you still have problems do these two steps:</i>  
 
 8 - The three driver belts, one in each column, should be equally tightly stretched. Haven't found a guide yet but it is pretty easy, move the extruder down to the exact middle of the bed first (G1 X0 Y0 Z1 F3000). Then place your ear close to each column and pluck the belts like a guitar one by one and listen to the note of each being in same tune. You can pluck the belt on the column's right or left side, one side will not "ring" but the other one will give you a weak but clear base note.
 
-9 - If you still get nozzle crashing into the print with layer shifts and possibly also spaghetti do Klipper's <a href="https://www.klipper3d.org/Delta_Calibrate.html#enhanced-delta-calibration">Enhanced Delta Calibration</a>
+9 - Klipper's <a href="https://www.klipper3d.org/Delta_Calibrate.html#enhanced-delta-calibration">Enhanced Delta Calibration</a> for a more precis delta calibration
 
 
 ## These are the changes done in Flsun's stock V400 files for Cura  
