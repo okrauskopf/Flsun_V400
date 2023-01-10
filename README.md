@@ -9,7 +9,7 @@ Problems with your Flsun V400 nozzle sometimes scraping or crashing into filamen
 
 2 - Tighten all three belts to be exactly equally tight. With the extruder at the very top adjust the belt tightening knobs to tune them all to 57Hz. Use a guitar tuning app on your mobile phone listening to the sounds from the belts when you pluck them. When done make sure you tighten all the screws for the belts.  
     
-3 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. **Do it when bed has been hot for 15 minutes so it is evenly heated.**  
+3 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. **Do it when the bed has been hot for 15 minutes so it is evenly heated.**  
 
 4 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>  
 
