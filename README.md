@@ -7,7 +7,7 @@ Problems with your Flsun V400 nozzle sometimes scraping or crashing into filamen
 
 1 - Make sure all screws are tight on your printer. Stepper motors, extruder block, the three columns and so on. 
 
-2 - Tighten all three belts to be exactly equally tight. Tune them all to 57Hz by using a guitar tuning app on your mobile listening to the sounds from the belts when you pluck them. When done make sure you tighten all the screws for the belts.  
+2 - Tighten all three belts to be exactly equally tight. Tune them all to 57Hz by using a guitar tuning app on your mobile phone, listening to the sounds from the belts when you pluck them. When done make sure you tighten all the screws for the belts.  
     
 3 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. **Bed mesh when bed has been hot for 15 minutes so it is evenly heated.**  
 
