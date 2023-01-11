@@ -17,7 +17,7 @@ Problems with your Flsun V400 nozzle sometimes scraping or crashing into filamen
 
 6 - Calibrate Extrusion Multiplier and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>  
   
-If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.6).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v0.6)</a> and install it as described in the readme file inside it 
+If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.7).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v0.7)</a> and install it as described in the readme file inside it 
 
 ## These are the changes in the above zip done to the Flsun's stock V400 files for Cura  
 
@@ -31,7 +31,6 @@ If you have carefully done each step above, and with a bit of luck, the printer 
 - Fan Speed takes it speed value from currently chosen filament instead of a fixed value
 - Flow compensation added for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
-- Three walls instead of two  
 - Added 0.1mm elephant foot compensation
   
 Nothing else is changed from the original Flsun stock file you received on the USB stick. 
