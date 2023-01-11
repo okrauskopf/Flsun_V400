@@ -24,7 +24,7 @@ If you have carefully done each step above, and with a bit of luck, the printer 
 - Infill changed to Gyroid
 - Retraction Z hop raised from 0.3 to 0.8
 - Combing off (can make prints take a longer time though, you can experiment with it on or off)
-- Material Flow (A.K.A. Extrusion Multiplier) set to a better default value at 98,5 instead of 100 but you should still calibrate for your filament! 
+- Material Flow (A.K.A. Extrusion Multiplier) set to a better default value at 98,5 instead of 100 but you should still calibrate for your filament and change in Cura after adding these files! 
 - The first extruder move from home is down to the edge of the bed instead of center to prevent filament drops in the bed center, changed in the start code  
 - BED_MESH_PROFILE LOAD="default" added to the start code (although this might be redundant, the jury is still out)
 - All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values. So changing filament in Cura actually does something.
