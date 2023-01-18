@@ -13,7 +13,7 @@ Problems with your Flsun V400 nozzle sometimes scraping or crashing into filamen
   
 4 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
   
-5 - Calibrate Extrusion Multiplier (Flow) and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>. This setting is per filament type. PETG and PLA can need different settings but even different makes _can_ differ. 
+5 - Calibrate Extrusion Multiplier (Flow) and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>. This setting is per filament type. PETG and PLA can need different settings, but different makes _can_ differ also. 
   
 6 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>. Also do test prints of a first layer while you fine tune Z on the pad screen live while printing.  
   
