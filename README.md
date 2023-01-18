@@ -17,7 +17,7 @@ Problems with your Flsun V400 nozzle sometimes scraping or crashing into filamen
   
 6 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>. Also do test prints of a first layer while you fine tune Z on the pad screen live while printing.  
   
-If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.8).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v0.8)</a> and install it as described in the readme file inside it 
+If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v1.0).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v1.0)</a> and install it as described in the readme file inside it 
 
 ## These are the changes in the above zip done to the Flsun's stock V400 files for Cura  
 
