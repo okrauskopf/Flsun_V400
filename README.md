@@ -15,7 +15,7 @@ Problems with your Flsun V400 nozzle sometimes scraping or crashing into filamen
 
 5 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
 
-6 - Calibrate Extrusion Multiplier and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>  
+6 - Calibrate Extrusion Multiplier (Flow) and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>  
   
 If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v0.8).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v0.8)</a> and install it as described in the readme file inside it 
 
