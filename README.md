@@ -28,7 +28,7 @@ If you have carefully done each step above, and with a bit of luck, the printer 
 - The first extruder move from home is down to the edge of the bed instead of center to prevent filament drops in the bed center, changed in the start code  
 - BED_MESH_PROFILE LOAD=default added to the start code
 - All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values. So changing filament in Cura actually does something.
-- Fan Speed takes it speed value from currently chosen filament instead of a fixed value
+- Fan Speed takes its speed value from currently chosen filament instead of a fixed value
 - Flow compensation added for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
 - Added 0.1mm elephant foot compensation
