@@ -11,7 +11,7 @@ Problems with your Flsun V400 nozzle sometimes scraping or crashing into filamen
     
 3 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. **Do it when the bed has been hot for 15 minutes so it is evenly heated.**  
 
-4 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>  
+4 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>. Also do test prints of a first layer while you fine tune Z on the pad screen live while printing.  
 
 5 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
 
