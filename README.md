@@ -34,7 +34,7 @@ If you have carefully done each step above, and with a bit of luck, the printer 
 - The first extruder move from home is down to the edge of the bed instead of center to prevent filament drops in the bed center, changed in the start code  
 
   
-Nothing else is changed from the original Flsun stock file you received on the USB stick. 
+Nothing else is changed from the original Flsun stock file that you received on the USB stick. 
   
 Thanks to everyone contributing info for the V400!!
   
