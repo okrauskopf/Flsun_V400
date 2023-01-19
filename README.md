@@ -10,13 +10,15 @@ If you skip one of the items in the list, or even just do one of them slightly h
 
 2 - Tighten all three belts to be exactly equally tight. With the extruder at the very top adjust the belt tightening knobs to tune them all to somewhere between 45-50Hz, but exactly the same all three! Either print out a belt tension gauge or use a guitar tuning app on your mobile phone listening to the sounds from the belts when you pluck them. When done make sure you tighten all the screws for the belts.  
     
-3 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. Do it when the bed has been hot for 15 minutes so it is evenly heated.  
+3 - Do Klipper probe calibration https://www.klipper3d.org/Probe_Calibrate.html  
   
-4 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
+4 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. Do it when the bed has been hot for 15 minutes so it is evenly heated.  
   
-5 - Calibrate Extrusion Multiplier (Flow) and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>. This setting is per filament type. PETG and PLA can need different settings, but different makes _can_ differ also. Important to have this set correctly for every filament you use and not have over extrusion.
+5 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
   
-6 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>. Also do a test print of a first layer while you fine tune Z "live" under the pad's "Fine tuning" while printing.  
+6 - Calibrate Extrusion Multiplier (Flow) and add the result in Cura, <a href=https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html>with yet another great guide by Ellis</a>. This setting is per filament type. PETG and PLA can need different settings, but different makes _can_ differ also. Important to have this set correctly for every filament you use and not have over extrusion.
+  
+7 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>. Also do a test print of a first layer while you fine tune Z "live" under the pad's "Fine tuning" while printing.  
   
 If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v1.0).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v1.0)</a> and install it as described in the readme file inside it. Do not forget to change to your calibrated flow values in Cura after installing this! 
 
