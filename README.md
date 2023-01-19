@@ -10,7 +10,7 @@ If you skip one of the items in the list, or even just do one of them slightly h
 
 2 - Tighten all three belts to be exactly equally tight. With the extruder at the very top adjust the belt tightening knobs to tune them all to somewhere between 45-50Hz, but exactly the same all three! Either print out a belt tension gauge or use a guitar tuning app on your mobile phone listening to the sounds from the belts when you pluck them. When done make sure you tighten all the screws for the belts.  
     
-3 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. **Do it when the bed has been hot for 15 minutes so it is evenly heated.**  
+3 - Do the Delta, Bed Mesh and Z height calibrations and so on as described in the Flsun V400 manual. Do it when the bed has been hot for 15 minutes so it is evenly heated.  
   
 4 - Calibrate E-steps and add the result into the printer.cfg on your SpeederPad <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html"> with clear steps in this guide</a>   
   
