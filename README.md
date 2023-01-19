@@ -18,20 +18,20 @@ If you skip one of the items in the list, or even just do one of them slightly h
   
 6 - Check that you got the bed height 100% set right <a href="https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html">with this great guide</a>. Also do test prints of a first layer while you fine tune Z on the pad screen live while printing.  
   
-If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v1.0).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v1.0)</a> and install it as described in the readme file inside it 
+If you have carefully done each step above, and with a bit of luck, the printer will now work fine. If not try this: Download <a href="Updated%20config%20for%20Cura%20-%20Flsun%20V400%20(v1.0).zip?raw=true">this updated Flsun V400 zip file for Cura (zip v1.0)</a> and install it as described in the readme file inside it. Do not forget to change to your calibrated flow values in Cura after installing this! 
 
 ## These are the changes in the above zip done to the Flsun's stock V400 files for Cura  
 
 - Infill changed to Gyroid
 - Retraction Z hop raised from 0.3 to 0.8
 - Combing off (can make prints take a longer time though, you can experiment with it on or off)
-- Material Flow (A.K.A. Extrusion Multiplier) set to a better default value at 98,5 instead of 100 but you should still calibrate for your filament and change in Cura after adding these files! 
-- The first extruder move from home is down to the edge of the bed instead of center to prevent filament drops in the bed center, changed in the start code  
+- Material Flow (A.K.A. Extrusion Multiplier) set to a better default value at 98,5 instead of 100 but you must still calibrate for your filament and change in Cura after adding these files! 
 - BED_MESH_PROFILE LOAD=default added to the start code
+- Flow compensation added for first layer above sparse infill to prevent blobs at higher speeds that the nozzle then can hit. Both threshold corrected and flow increase added. Might need tweaking for ordinary bridges but so far very good.
 - All bed and nozzle temperatures are taken from the currently chosen filament instead of fixed values. So changing filament in Cura actually does something.
 - Fan Speed takes its speed value from currently chosen filament instead of a fixed value
-- Flow compensation added for first layer above sparse infill to prevent blobs at high speeds. Both threshold and flow increase added. Might need tweaking for ordinary bridges but so far very good.
 - All speeds now automatically get values derived from the main printing speed instead of fixed individual values. Next step is to take the speed values from the filaments so TPU or PLA and so on to get speeds correctly adjusted automatically. 
+- The first extruder move from home is down to the edge of the bed instead of center to prevent filament drops in the bed center, changed in the start code  
 
   
 Nothing else is changed from the original Flsun stock file you received on the USB stick. 
