@@ -1,7 +1,8 @@
 ## A common issue with Flsun V400  
   
-Problems with your Flsun V400 nozzle sometimes scraping or crashing into filament -&gt; layer shifts -&gt; spaghetti?
-
+Problems with your Flsun V400 nozzle sometimes scraping or crashing into filament -&gt; layer shifts -&gt; spaghetti?  
+  
+If you skip one of the items in the list, or even just do one of them slightly haphazardly, you will probably still have problems.   
   
 ## Guide
 
